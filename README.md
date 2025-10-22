@@ -51,6 +51,4 @@ spring.datasource.password=YOUR_PASSWORD
 4. Access the frontend in your browser:
 http://localhost:9090/index.html
 
-<img width="1919" height="878" alt="Screenshot 2025-10-22 151312" src="https://github.com/user-attachments/assets/209dd8a7-c0d7-40b4-829a-ec14e45d416f" />
-<img width="1918" height="876" alt="Screenshot 2025-10-22 151158" src="https://github.com/user-attachments/assets/59cbecf5-a6d7-42fa-898a-b677452dfd82" />
 
